@@ -1,0 +1,454 @@
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\MultiDialogsBot.dll.config
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\MultiDialogsBot.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\MultiDialogsBot.pdb
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Autofac.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Chronic.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\EntityFramework.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\EntityFramework.SqlServer.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Connector.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.Edm.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.OData.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.Services.Client.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Newtonsoft.Json.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Net.Http.Formatting.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Spatial.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Web.Http.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Web.Http.WebHost.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Autofac.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\EntityFramework.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\EntityFramework.SqlServer.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Bot.Connector.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.Edm.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.OData.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.Data.Services.Client.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\Newtonsoft.Json.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Net.Http.Formatting.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Spatial.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Web.Http.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\System.Web.Http.WebHost.xml
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\de\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\es\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\fr\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\it\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ja\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ko\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\ru\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\obj\Debug\MultiDialogsBot.csprojAssemblyReference.cache
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CoreCompileInputs.cache
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CopyComplete
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\obj\Debug\MultiDialogsBot.dll
+C:\Users\ethuang\Documents\GitHub\Bot Framework\BotBuilder-Samples-3-sdk-samples\CSharp\core-MultiDialogs\obj\Debug\MultiDialogsBot.pdb
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\MultiDialogsBot.dll.config
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\MultiDialogsBot.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\MultiDialogsBot.pdb
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Autofac.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Chronic.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\EntityFramework.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\EntityFramework.SqlServer.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Connector.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.Edm.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.OData.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.Services.Client.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Newtonsoft.Json.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Net.Http.Formatting.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Spatial.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Web.Http.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Web.Http.WebHost.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Autofac.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\EntityFramework.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\EntityFramework.SqlServer.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Bot.Connector.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.Edm.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.OData.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.Data.Services.Client.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\Newtonsoft.Json.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Net.Http.Formatting.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Spatial.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Web.Http.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\System.Web.Http.WebHost.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\de\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\es\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\fr\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\it\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ja\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ko\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\ru\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csprojAssemblyReference.cache
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CoreCompileInputs.cache
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CopyComplete
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\obj\Debug\MultiDialogsBot.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-MultiDialogs\obj\Debug\MultiDialogsBot.pdb
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\DocumentDB.Spatial.Sql.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\MultiDialogsBot.dll.config
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\MultiDialogsBot.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\MultiDialogsBot.pdb
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Autofac.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Chronic.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\EntityFramework.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\EntityFramework.SqlServer.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Connector.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.Edm.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.OData.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.Services.Client.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Newtonsoft.Json.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Net.Http.Formatting.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Spatial.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Web.Http.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Web.Http.WebHost.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Autofac.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\EntityFramework.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\EntityFramework.SqlServer.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Bot.Connector.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.Edm.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.OData.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.Data.Services.Client.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\Newtonsoft.Json.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Net.Http.Formatting.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Spatial.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Web.Http.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\System.Web.Http.WebHost.xml
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\de\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\es\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\it\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\de\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\es\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\fr\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\it\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ja\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ko\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\ru\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hans\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\bin\zh-Hant\System.Spatial.resources.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\obj\Debug\MultiDialogsBot.csprojAssemblyReference.cache
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CoreCompileInputs.cache
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CopyComplete
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\obj\Debug\MultiDialogsBot.dll
+D:\Downloads\Chatbot Workshop Day 1\core-MultiDialogs\obj\Debug\MultiDialogsBot.pdb
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\MultiDialogsBot.dll.config
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\MultiDialogsBot.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\MultiDialogsBot.pdb
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Autofac.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Chronic.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\EntityFramework.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\EntityFramework.SqlServer.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Connector.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.Edm.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.OData.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.Services.Client.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Newtonsoft.Json.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Net.Http.Formatting.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Spatial.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Web.Http.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Web.Http.WebHost.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Autofac.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\EntityFramework.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\EntityFramework.SqlServer.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Bot.Connector.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.Edm.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.OData.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.Data.Services.Client.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\Newtonsoft.Json.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Net.Http.Formatting.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Spatial.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Web.Http.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\System.Web.Http.WebHost.xml
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\de\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\es\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\fr\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\it\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ja\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ko\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\ru\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csprojAssemblyReference.cache
+C:\Users\evolu\Desktop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CoreCompileInputs.cache
+C:\Users\evolu\Desktop\core-MultiDialogs\obj\Debug\MultiDialogsBot.csproj.CopyComplete
+C:\Users\evolu\Desktop\core-MultiDialogs\obj\Debug\MultiDialogsBot.dll
+C:\Users\evolu\Desktop\core-MultiDialogs\obj\Debug\MultiDialogsBot.pdb

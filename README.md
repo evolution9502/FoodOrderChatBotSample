@@ -1,3 +1,7 @@
+Editted chatbot sample from "Multi-Dialog Bot Sample"
+
+info below are original readme message
+
 # Multi-Dialog Bot Sample
 
 A sample bot showing different kind of dialogs.
